@@ -1,0 +1,42 @@
+
+
+.our-service__wrapper {
+  display: flex;
+  padding-top: 50px;
+  gap: 37px;
+}
+
+.our-service__sub-title {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.our-service__title {
+  font-weight: 500;
+  font-size: 48px;
+}
+
+.card {
+  margin-top: 50px;
+  padding: 39px 59px;
+  border-radius: 60px 0px 60px 0px;
+  box-shadow: 0px 8px 20px 0px #00000024;
+  transition: 0.3s ease-in-out;
+}
+
+.card:hover {
+  background-color: rgba(202, 168, 146, 1);
+  color: white;
+}
+
+.card__title {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.card__info {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+}
